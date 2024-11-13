@@ -39,13 +39,7 @@ Here’s your customized GitHub profile README, merging all your details into on
   </a>
 </p>
 
-### 👨‍💻 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vipul-919&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipul-919&theme=default" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipul-919&layout=compact" alt="Top Languages" />
-</p>
 
 ### 📫 Contact Me
 
