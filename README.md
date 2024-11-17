@@ -44,7 +44,7 @@ Here’s your customized GitHub profile README, merging all your details into on
 ### 📫 Contact Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/vipul-yadav" target="blank">
+  <a href=https://www.linkedin.com/in/vipul-yadav-59a803239/ target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Vipul Yadav" height="30" width="40" />
   </a>
 </p>
